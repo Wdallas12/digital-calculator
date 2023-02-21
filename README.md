@@ -1,26 +1,15 @@
 # 🔢 #100Devs Push Project001: Calculator
 
-### Goal: Build a Simple Calculator using JS OOP best practices
+### A Simple Calculator using JS OOP best practices
 
-### What it should look like:
+### How I Made It:
 
-![Calculator](calculator.jpg)
+**Tech used:** HTML, CSS, JavaScript
 
-### How to submit your code for review:
+- I started by laying out the basic framework and simple styles with HTML and CSS. After I did some research and review on OOP. Whenever I got stuck in a part, I would look up similar projects to see how others solved problems that I was running into. Once I had all the JS working, I cleaned up the CSS to make everything more visually pleasing.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### Things I Learned:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+- Choosing your class names correctly and applying them to the correct elements really saves you a lot of trouble in the long run.
+- Classes and Ids really help make the JS process smoother and simpler because it allows you to apply the same function to mulptiple elements.
+- Dividing up the program using OOP helps keep things organized, and allows isolated changes to be made.
