@@ -1,35 +1,4 @@
 //Global Variables
-// const input = document.querySelector('.window');
-// const allClear = document.getElementById('clear');
-// const plus = document.getElementById('plus');
-// const minus = document.getElementById('minus');
-// const div = document.getElementById('div');
-// const mult = document.getElementById('mult');
-// const equal = document.getElementById('equal');
-
-
-//Event Listeners
-
-// allClear.addEventListener('click', clearIt)
-// plus.addEventListener('click', add)
-// minus.addEventListener('click', subtract)
-// div.addEventListener('click', divide)
-// mult.addEventListener('click', multiply)
-// equal.addEventListener('click', equals)
-
-
-
-
-// document.querySelectorAll(".number,#point").forEach((el) => {
-//     el.onclick = function (){
-//         input.textContent += el.textContent;
-//     }
-// })
-
-
-
-
-//Tutorial Help
 
 const calculator = {
     displayValue: '0',
